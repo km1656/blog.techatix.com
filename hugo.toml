@@ -1,4 +1,4 @@
-baseURL = 'blog.techatix.com/'
+baseURL = 'http://blog.techatix.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
