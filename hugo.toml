@@ -1,6 +1,6 @@
 baseURL = 'https://blog.techatix.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = ''
 
 [[menus.main]]
 name = 'Home'
