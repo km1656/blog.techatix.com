@@ -21,4 +21,4 @@ weight = 30
   [module.hugoVersion]
     extended = false
     min = "0.116.0"
-theme = 'hugo-geekblog'
+theme = 'hugo-bootstrap-theme'
