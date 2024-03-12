@@ -2,7 +2,7 @@
 title = 'AI in Action: How Artificial Intelligence is Transforming Data Analytics'
 date = 2023-01-15T09:00:00-07:00
 draft = false
-tags = ['aianalytics' 'datainsights' 'artificialintelligence']
+tags = ['aianalytics', 'datainsights', 'artificialintelligence']
 +++
 
 The age of big data has ushered in an era of data-driven decision-making across industries. But extracting valuable insights from vast and complex datasets can be a daunting task. Thankfully, Artificial Intelligence (AI) is emerging as a game-changer in the world of Data Analytics, transforming how we approach, analyze, and utilize information.
