@@ -7,19 +7,30 @@
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/css/bootstrap.min.css" rel="stylesheet">
   <!-- Local CSS -->
-  <link href="/css/styles.css" rel="stylesheet">
+  <link href="assets/css/styles.css" rel="stylesheet">
   {{ partial "head.html" . }}
+  <style>
+    /* Custom style to center the content */
+    .content-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh; /* Adjust this value based on your layout */
+    }
+  </style>
 </head>
 <body>
-  <header>
-    {{ partial "header.html" . }}
-  </header>
-  <main>
-    {{ block "main" . }}{{ end }}
-  </main>
-  <footer>
-    {{ partial "footer.html" . }}
-  </footer>
+  <div class="content-wrapper">
+    <header>
+      {{ partial "header.html" . }}
+    </header>
+    <main>
+      {{ block "main" . }}{{ end }}
+    </main>
+    <footer>
+      {{ partial "footer.html" . }}
+    </footer>
+  </div>
   <!-- Bootstrap JS (optional) -->
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
   <!-- Local JS (if any) -->
