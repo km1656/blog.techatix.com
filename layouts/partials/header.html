@@ -1,2 +1,21 @@
-<h1>{{ site.Title }}</h1>
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+<!-- <h1>{{ site.Title }}</h1>
+{{ partial "menu.html" (dict "menuID" "main" "page" .) }} -->
+
+<header id="header" class="fixed-top d-flex align-items-center navbar-scrolled">
+    <div class="container d-flex align-items-center justify-content-between">
+      <div class="logo">
+        <a href="{{ .Site.BaseURL }}">
+          <img src="{{ "assets/img/logo.png" | relURL }}" alt="Techatix logo" class="img-fluid w-600">
+        </a>
+      </div>
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="{{ .Site.BaseURL }}">Home</a></li>
+          <!-- Add other menu items dynamically -->
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav>
+    </div>
+  </header>
+
+  

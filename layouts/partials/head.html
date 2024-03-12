@@ -1,5 +1,16 @@
-<meta charset="utf-8">
+<!-- <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
 <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
 {{ partialCached "head/css.html" . }}
-{{ partialCached "head/js.html" . }}
+{{ partialCached "head/js.html" . }} -->
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ .Title }}</title>
+<meta name="description" content="{{ .Description }}">
+<!-- Add other meta tags dynamically -->
+<link rel="icon" href="{{ "assets/img/favicon.png" | relURL }}">
+<link rel="apple-touch-icon" href="{{ "assets/img/apple-touch-icon.png" | relURL }}">
+<!-- Add CSS files dynamically -->
+{{- $styles := resources.Get "assets/css/style.css" | resources.PostCSS | fingerprint -}}
+<link rel="stylesheet" href="{{ $styles.RelPermalink }}">
