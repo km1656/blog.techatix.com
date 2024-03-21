@@ -2,7 +2,7 @@
 title = 'Tame the Data Beast: 5 Strategies for Effective Data Management'
 date = 2023-03-15T11:00:00-07:00
 draft = false
-tags = [techatix, data, businessintelligence, analytics, datascience]
+tags = ['techatix', 'data', 'businessintelligence', 'analytics', 'datascience']
 +++
 
 In today's data-driven world, information is a powerful asset. But raw data alone isn't enough. To truly unlock its potential and gain valuable insights, organizations need effective data management strategies in place.
