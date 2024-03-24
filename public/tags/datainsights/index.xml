@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Datainsights on </title>
-    <link>http://localhost:1313/tags/datainsights/</link>
-    <description>Recent content in Datainsights on </description>
+    <title>Datainsights on Techatix Blog</title>
+    <link>https://blog.techatix.com/tags/datainsights/</link>
+    <description>Recent content in Datainsights on Techatix Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/datainsights/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.techatix.com/tags/datainsights/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI in Action: How Artificial Intelligence is Transforming Data Analytics</title>
-      <link>http://localhost:1313/posts/post-1/</link>
+      <link>https://blog.techatix.com/posts/ai-in-action-how-artificial-intelligence-is-transforming-data-analytics/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>http://localhost:1313/posts/post-1/</guid>
+      <guid>https://blog.techatix.com/posts/ai-in-action-how-artificial-intelligence-is-transforming-data-analytics/</guid>
       <description>The age of big data has ushered in an era of data-driven decision-making across industries. But extracting valuable insights from vast and complex datasets can be a daunting task. Thankfully, Artificial Intelligence (AI) is emerging as a game-changer in the world of Data Analytics, transforming how we approach, analyze, and utilize information.&#xA;Revolutionizing Data Processing:&#xA;Machine Learning (ML) algorithms automate repetitive tasks like data cleaning, classification, and pattern recognition. This frees up human analysts to focus on higher-level tasks like interpreting results and formulating strategic recommendations.</description>
     </item>
   </channel>

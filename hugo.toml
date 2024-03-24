@@ -21,4 +21,6 @@ weight = 30
   [module.hugoVersion]
     extended = false
     min = "0.116.0"
+
 theme = "hugo-bootstrap-theme"
+themesdir = "node_modules/@filipecarneiro"
