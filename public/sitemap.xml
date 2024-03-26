@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.techatix.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-11-11T08:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/analytics/</loc>
+    <loc>http://localhost:1313/tags/analytics/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/blue/</loc>
+    <loc>http://localhost:1313/tags/blue/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/businessintelligence/</loc>
+    <loc>http://localhost:1313/tags/businessintelligence/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/data/</loc>
+    <loc>http://localhost:1313/tags/data/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/datascience/</loc>
+    <loc>http://localhost:1313/tags/datascience/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/green/</loc>
+    <loc>http://localhost:1313/tags/green/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/posts/post-4/</loc>
+    <loc>http://localhost:1313/posts/post-4/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/red/</loc>
+    <loc>http://localhost:1313/tags/red/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/posts/explore-the-techatix-blog-navigating-the-digital-frontier-with-insightful-articles-and-expert-guidance/</loc>
+    <loc>http://localhost:1313/posts/explore-the-techatix-blog-navigating-the-digital-frontier-with-insightful-articles-and-expert-guidance/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/techatix/</loc>
+    <loc>http://localhost:1313/tags/techatix/</loc>
     <lastmod>2023-03-15T11:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/businesssecurity/</loc>
+    <loc>http://localhost:1313/tags/businesssecurity/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/cyberawareness/</loc>
+    <loc>http://localhost:1313/tags/cyberawareness/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/cyberpreparedness/</loc>
+    <loc>http://localhost:1313/tags/cyberpreparedness/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/cybersecuritytips/</loc>
+    <loc>http://localhost:1313/tags/cybersecuritytips/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/cyberthreats/</loc>
+    <loc>http://localhost:1313/tags/cyberthreats/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/dataprivacy/</loc>
+    <loc>http://localhost:1313/tags/dataprivacy/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/dataprotection/</loc>
+    <loc>http://localhost:1313/tags/dataprotection/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/onlinesecurity/</loc>
+    <loc>http://localhost:1313/tags/onlinesecurity/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/posts/safeguard-your-success-essential-cybersecurity-tips-for-business-growth/</loc>
+    <loc>http://localhost:1313/posts/safeguard-your-success-essential-cybersecurity-tips-for-business-growth/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/secureyourbusiness/</loc>
+    <loc>http://localhost:1313/tags/secureyourbusiness/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/smallbizsecurity/</loc>
+    <loc>http://localhost:1313/tags/smallbizsecurity/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/techsecurity/</loc>
+    <loc>http://localhost:1313/tags/techsecurity/</loc>
     <lastmod>2023-02-15T10:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/posts/ai-in-action-how-artificial-intelligence-is-transforming-data-analytics/</loc>
+    <loc>http://localhost:1313/posts/ai-in-action-how-artificial-intelligence-is-transforming-data-analytics/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/aianalytics/</loc>
+    <loc>http://localhost:1313/tags/aianalytics/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/artificialintelligence/</loc>
+    <loc>http://localhost:1313/tags/artificialintelligence/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/tags/datainsights/</loc>
+    <loc>http://localhost:1313/tags/datainsights/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-01-01T08:30:00-07:00</lastmod>
   </url><url>
-    <loc>https://blog.techatix.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

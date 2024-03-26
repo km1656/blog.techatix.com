@@ -2,164 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Techatix Blog</title>
-    <link>https://blog.techatix.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Techatix Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate>
-    <atom:link href="https://blog.techatix.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analytics</title>
-      <link>https://blog.techatix.com/tags/analytics/</link>
+      <link>http://localhost:1313/tags/analytics/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/analytics/</guid>
+      <guid>http://localhost:1313/tags/analytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Blue</title>
-      <link>https://blog.techatix.com/tags/blue/</link>
+      <link>http://localhost:1313/tags/blue/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/blue/</guid>
+      <guid>http://localhost:1313/tags/blue/</guid>
       <description></description>
     </item>
     <item>
       <title>Businessintelligence</title>
-      <link>https://blog.techatix.com/tags/businessintelligence/</link>
+      <link>http://localhost:1313/tags/businessintelligence/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/businessintelligence/</guid>
+      <guid>http://localhost:1313/tags/businessintelligence/</guid>
       <description></description>
     </item>
     <item>
       <title>Data</title>
-      <link>https://blog.techatix.com/tags/data/</link>
+      <link>http://localhost:1313/tags/data/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/data/</guid>
+      <guid>http://localhost:1313/tags/data/</guid>
       <description></description>
     </item>
     <item>
       <title>Datascience</title>
-      <link>https://blog.techatix.com/tags/datascience/</link>
+      <link>http://localhost:1313/tags/datascience/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/datascience/</guid>
+      <guid>http://localhost:1313/tags/datascience/</guid>
       <description></description>
     </item>
     <item>
       <title>Green</title>
-      <link>https://blog.techatix.com/tags/green/</link>
+      <link>http://localhost:1313/tags/green/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/green/</guid>
+      <guid>http://localhost:1313/tags/green/</guid>
       <description></description>
     </item>
     <item>
       <title>Red</title>
-      <link>https://blog.techatix.com/tags/red/</link>
+      <link>http://localhost:1313/tags/red/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/red/</guid>
+      <guid>http://localhost:1313/tags/red/</guid>
       <description></description>
     </item>
     <item>
       <title>Techatix</title>
-      <link>https://blog.techatix.com/tags/techatix/</link>
+      <link>http://localhost:1313/tags/techatix/</link>
       <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/techatix/</guid>
+      <guid>http://localhost:1313/tags/techatix/</guid>
       <description></description>
     </item>
     <item>
       <title>Businesssecurity</title>
-      <link>https://blog.techatix.com/tags/businesssecurity/</link>
+      <link>http://localhost:1313/tags/businesssecurity/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/businesssecurity/</guid>
+      <guid>http://localhost:1313/tags/businesssecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyberawareness</title>
-      <link>https://blog.techatix.com/tags/cyberawareness/</link>
+      <link>http://localhost:1313/tags/cyberawareness/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/cyberawareness/</guid>
+      <guid>http://localhost:1313/tags/cyberawareness/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyberpreparedness</title>
-      <link>https://blog.techatix.com/tags/cyberpreparedness/</link>
+      <link>http://localhost:1313/tags/cyberpreparedness/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/cyberpreparedness/</guid>
+      <guid>http://localhost:1313/tags/cyberpreparedness/</guid>
       <description></description>
     </item>
     <item>
       <title>Cybersecuritytips</title>
-      <link>https://blog.techatix.com/tags/cybersecuritytips/</link>
+      <link>http://localhost:1313/tags/cybersecuritytips/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/cybersecuritytips/</guid>
+      <guid>http://localhost:1313/tags/cybersecuritytips/</guid>
       <description></description>
     </item>
     <item>
       <title>Cyberthreats</title>
-      <link>https://blog.techatix.com/tags/cyberthreats/</link>
+      <link>http://localhost:1313/tags/cyberthreats/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/cyberthreats/</guid>
+      <guid>http://localhost:1313/tags/cyberthreats/</guid>
       <description></description>
     </item>
     <item>
       <title>Dataprivacy</title>
-      <link>https://blog.techatix.com/tags/dataprivacy/</link>
+      <link>http://localhost:1313/tags/dataprivacy/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/dataprivacy/</guid>
+      <guid>http://localhost:1313/tags/dataprivacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Dataprotection</title>
-      <link>https://blog.techatix.com/tags/dataprotection/</link>
+      <link>http://localhost:1313/tags/dataprotection/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/dataprotection/</guid>
+      <guid>http://localhost:1313/tags/dataprotection/</guid>
       <description></description>
     </item>
     <item>
       <title>Onlinesecurity</title>
-      <link>https://blog.techatix.com/tags/onlinesecurity/</link>
+      <link>http://localhost:1313/tags/onlinesecurity/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/onlinesecurity/</guid>
+      <guid>http://localhost:1313/tags/onlinesecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Secureyourbusiness</title>
-      <link>https://blog.techatix.com/tags/secureyourbusiness/</link>
+      <link>http://localhost:1313/tags/secureyourbusiness/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/secureyourbusiness/</guid>
+      <guid>http://localhost:1313/tags/secureyourbusiness/</guid>
       <description></description>
     </item>
     <item>
       <title>Smallbizsecurity</title>
-      <link>https://blog.techatix.com/tags/smallbizsecurity/</link>
+      <link>http://localhost:1313/tags/smallbizsecurity/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/smallbizsecurity/</guid>
+      <guid>http://localhost:1313/tags/smallbizsecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Techsecurity</title>
-      <link>https://blog.techatix.com/tags/techsecurity/</link>
+      <link>http://localhost:1313/tags/techsecurity/</link>
       <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/techsecurity/</guid>
+      <guid>http://localhost:1313/tags/techsecurity/</guid>
       <description></description>
     </item>
     <item>
       <title>Aianalytics</title>
-      <link>https://blog.techatix.com/tags/aianalytics/</link>
+      <link>http://localhost:1313/tags/aianalytics/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/aianalytics/</guid>
+      <guid>http://localhost:1313/tags/aianalytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Artificialintelligence</title>
-      <link>https://blog.techatix.com/tags/artificialintelligence/</link>
+      <link>http://localhost:1313/tags/artificialintelligence/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/artificialintelligence/</guid>
+      <guid>http://localhost:1313/tags/artificialintelligence/</guid>
       <description></description>
     </item>
     <item>
       <title>Datainsights</title>
-      <link>https://blog.techatix.com/tags/datainsights/</link>
+      <link>http://localhost:1313/tags/datainsights/</link>
       <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://blog.techatix.com/tags/datainsights/</guid>
+      <guid>http://localhost:1313/tags/datainsights/</guid>
       <description></description>
     </item>
   </channel>
