@@ -1,0 +1,18 @@
+---
+title: "About Me"
+date: 2024-01-01
+draft: false
+---
+
+Hello! I'm a passionate developer and writer. This blog is where I share my thoughts and experiences about technology, development, and life in general.
+
+## My Background
+
+I have experience in various technologies and love learning new things.
+
+## Contact
+
+Feel free to reach out to me through:
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- GitHub: [@yourhandle](https://github.com/yourhandle)
+- Email: your.email@example.com

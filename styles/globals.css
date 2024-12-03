@@ -1,0 +1,124 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'bootstrap-icons/font/bootstrap-icons.css';
+@import 'remixicon/fonts/remixicon.css';
+
+:root {
+  --primary-color: #00529f;
+  --secondary-color: #ff7f00;
+}
+
+body {
+  @apply bg-gray-50 pt-16;
+}
+
+/* Header Styles */
+#header {
+  @apply h-16 bg-white;
+}
+
+.navbar-scrolled {
+  @apply shadow-[0_2px_4px_rgba(0,82,159,0.5)];
+}
+
+.navbar ul {
+  @apply m-0 p-0 flex list-none items-center;
+}
+
+.navbar li {
+  @apply relative;
+}
+
+.nav-link {
+  @apply flex items-center justify-between px-0 py-2.5 ml-8 text-sm font-normal text-gray-700 whitespace-nowrap transition-colors duration-300;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  @apply text-primary-color;
+}
+
+.getstarted {
+  @apply bg-secondary-color text-white px-6 py-2 ml-8 rounded-full transition-colors duration-300;
+}
+
+.getstarted:hover {
+  @apply bg-opacity-90;
+}
+
+.mobile-nav-toggle {
+  @apply hidden text-2xl cursor-pointer text-gray-800 transition-colors duration-500;
+}
+
+@media (max-width: 991px) {
+  .mobile-nav-toggle {
+    @apply block;
+  }
+
+  .navbar ul {
+    @apply hidden;
+  }
+
+  .navbar-mobile {
+    @apply fixed overflow-hidden inset-0 bg-black/90 z-50;
+  }
+
+  .navbar-mobile .mobile-nav-toggle {
+    @apply absolute top-4 right-4 text-white;
+  }
+
+  .navbar-mobile ul {
+    @apply block absolute top-14 right-4 bottom-4 left-4 p-2.5 rounded-lg bg-white overflow-y-auto;
+  }
+
+  .navbar-mobile li {
+    @apply block;
+  }
+
+  .navbar-mobile .nav-link {
+    @apply p-2.5 ml-0;
+  }
+
+  .navbar-mobile .getstarted {
+    @apply m-4;
+  }
+}
+
+/* Social Media Icons */
+.facebook .bi-facebook,
+.twitter .bi-twitter-x,
+.instagram .bi-instagram,
+.linkedin .bi-linkedin {
+  @apply text-white/50 p-1.5 transition-colors;
+}
+
+.facebook:hover .bi-facebook,
+.twitter:hover .bi-twitter-x,
+.instagram:hover .bi-instagram,
+.linkedin:hover .bi-linkedin {
+  @apply text-white;
+}
+
+/* Footer Styles */
+.footer {
+  @apply text-white/90;
+}
+
+.footer-menu a {
+  @apply text-white/50 hover:text-white transition-colors;
+}
+
+.copyright {
+  @apply py-6 border-t border-white/10 text-sm;
+}
+
+/* Blog Card */
+.blog-card {
+  @apply bg-white rounded-lg shadow-md overflow-hidden transition-transform hover:scale-105;
+}
+
+.blog-card-content {
+  @apply p-6;
+}
